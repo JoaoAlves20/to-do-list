@@ -1,6 +1,6 @@
 # Lista de Tarefas (To Do List)
 
-![alt text](image.png)
+![alt text](./images/image.png)
 
 ## 🗺️ Sobre o projeto
 
